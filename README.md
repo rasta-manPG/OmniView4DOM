@@ -30,10 +30,3 @@ v1.0
 License
 CC BY-SA 4.0.
 
-Code
-
-If you want, I can also make this look even closer to the original by adding:
-- a centered banner image
-- badges at the top
-- a cleaner “project intro” layout
-- a more polished version with a “featured projects” section
