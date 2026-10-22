@@ -27,9 +27,8 @@ OmniView4DOM essentially replaces the standard UT99 HUD with a broadcasting-frie
 ```text
 v1.0
 - Initial release.
+```
 License
 CC BY-SA 4.0.
 
-License
-CC BY-SA 4.0.
 
