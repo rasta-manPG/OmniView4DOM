@@ -8,6 +8,7 @@ an instant view who is the dominant team,how much total points has any player fr
 the teams and the most important ,i think,what player is dominating what point aka
 DOMINATOR MACHINES.
 
+
 Warning
 Please keep in mind that I’m not really a programmer and even less a u-scripter so therefore other limitations I’m unaware of may apply.
 Some parts of the project are unfinished or may contain unfinished stuff.
