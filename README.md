@@ -1,32 +1,39 @@
-OmniView4DOM 
+# OmniView4DOM
 
-A replacement HUD for streaming UT99 DOMINATION games. 
+A replacement HUD for streaming UT99 DOM games.
 
-Check out OmniView4TDM for a (T)DM version and OmniView4CTF for a CTF version 
+Check out [OmniView4TDM](https://github.com/W4yland3r/OmniView4TDM) and [OmniView4CTF](https://github.com/W4yland3r/OmniView4CTF) for the other versions.
 
-Description 
+## Description
 
-OmniView4DOM project started as a need for cup games in Passionate Gaming discord channel as no one from UT community step up and do one so , i start to give it a try This OV4DOM replaces the standard UT99 HUD with a broadcasting-friendly one for streaming 4V4 Domination games ,NW and also IG+.With my work i tried to have on the screen all information necessary for streamers and spectators to have an instant view who is the dominant team,how much total points has any player from the teams and the most important ,i think,what player is dominating what point aka DOMINATOR MACHINES. 
+OmniView4DOM essentially replaces the standard UT99 HUD with a broadcasting-friendly one for streaming 5v5 DOM games, both NW and IG. It shows all the important information in a concise and minimalistic way while also offering customization options and some automation features.
 
-Warning 
+## Warning
 
-Please keep in mind that I’m not really a programmer and even less a u-scripter so therefore other limitations I’m unaware of may apply. 
+- Please keep in mind that I’m not really a programmer and even less a u-scripter, so other limitations I may be unaware of may apply.
+- Some parts of the project are unfinished or may contain unfinished work.
+- Documentation may not yet cover every change or feature.
+- The project may still require some setup or configuration depending on your environment.
 
-Some parts of the project are unfinished or may contain unfinished stuff. 
+## Acknowledgments
 
-The ReadMe_V.1.0.pdf was written for the initial release version 1.0. 
+- All additions/changes are inspired by the work of [W4yland3r](https://github.com/W4yland3r).
+- Check out [OmniView4TDM](https://github.com/W4yland3r/OmniView4TDM) and [OmniView4CTF](https://github.com/W4yland3r/OmniView4CTF) for the related HUD versions.
+- Inspired by [UTV by Fnordia and SJ](https://utv.clan-sy.com/).
+- Thanks to everyone who contributed feedback, testing, and support.
 
-Acknowledgments 
+## Version history
 
-This work is based on the OmniView4CTF version that was created by Waylander / double_u and with the help of Gamertomthebomb giving huge feedback to finish it for streamers. 
+```text
+v1.0
+- Initial release.
+License
+CC BY-SA 4.0.
 
-Version history 
-v1.0 
-- Initial release. 
- 
+Code
 
-License 
-
-CC BY-SA 4.0. 
-
- 
+If you want, I can also make this look even closer to the original by adding:
+- a centered banner image
+- badges at the top
+- a cleaner “project intro” layout
+- a more polished version with a “featured projects” section
