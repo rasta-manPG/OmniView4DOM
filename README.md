@@ -7,3 +7,6 @@ have on the screen all information necessary for streamers and spectators to hav
 an instant view who is the dominant team,how much total points has any player from
 the teams and the most important ,i think,what player is dominating what point aka
 DOMINATOR MACHINES.
+
+v1.0
+- Initial release.
